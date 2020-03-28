@@ -3,7 +3,7 @@ const cors = require('cors');
 const app = express();
 const fs = require('fs');
 const path = require('path');
-const port = 5000;
+const port = process.env.PORT || 5000;
 
 app.use(cors());
 app.use(express.static(path.join(__dirname, "public")));
@@ -11,10 +11,7 @@ app.use(express.static(path.join(__dirname, "client", "build")));
 
 app.get('/api/all', (req, res) => {
     fs.readFile('./data/data.json', (err, data) => {
-        setTimeout(() => { // shitty server emulation
-            return err ? console.error(err) : res.json(JSON.parse(data))
-        }, 1000)
-
+        return err ? console.error(err) : res.json(JSON.parse(data))
     })
 })
 
