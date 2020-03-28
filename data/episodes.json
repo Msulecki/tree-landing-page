@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Gamma ray",
+        "desc": "Gamma radiation episode",
+        "thumb": "gammaray.jpg"
+    },
+    {
+        "id": 2,
+        "name": "X-ray",
+        "desc": "X-ray radiation episode",
+        "thumb": "xray.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Ultraviolet",
+        "desc": "Ultraviolet light episode",
+        "thumb": "ultraviolet.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Visible",
+        "desc": "Visible light episode",
+        "thumb": "visiblelight.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Infrared",
+        "desc": "Infrared radiation episode",
+        "thumb": "infrared.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Microwave",
+        "desc": "Microwave radiation episode",
+        "thumb": "microwave.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Radio",
+        "desc": "Radio waves episode",
+        "thumb": "radiowave.jpg"
+    }
+]

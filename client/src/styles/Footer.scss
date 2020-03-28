@@ -1,0 +1,14 @@
+.footer {
+    height: 100px;
+    background-color: hsl(0, 0, 30);
+    border: 1px solid hsl(0,0,20);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+
+    &__copyrights {
+    margin: 10px;
+    color: hsl(0,0,70);
+    }
+}

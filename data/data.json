@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "section": "Basics",
+        "title": "",
+        "text": "Infrared radiation (IR), sometimes called infrared light, is electromagnetic radiation (EMR) with wavelengths longer than those of visible light. It is therefore generally invisible to the human eye, although IR at wavelengths up to 1050 nanometers (nm)s from specially pulsed lasers can be seen by humans under certain conditions. IR wavelengths extend from the nominal red edge of the visible spectrum at 700 nanometers (frequency 430 THz), to 1 millimeter (300 GHz).",
+        "img": {
+            "src": "",
+            "alt": ""
+        }
+    },
+    {
+        "id": 2,
+        "section": "Basics",
+        "title": "",
+        "text": "Infrared radiation was discovered in 1800 by astronomer Sir William Herschel, who discovered a type of invisible radiation in the spectrum lower in energy than red light, by means of its effect on a thermometer.",
+        "img": {
+            "src": "img/hershell.jpg",
+            "alt": "Sir William Hershell"
+        }
+    },
+    {
+        "id": 3,
+        "section": "Basics",
+        "title": "",
+        "text": "Sunlight, at an effective temperature of 5780 kelvins (5510 °C, 9940 °F), is composed of near-thermal-spectrum radiation that is slightly more than half infrared. At zenith, sunlight provides an irradiance of just over 1 kilowatt per square meter at sea level. Of this energy, 527 watts is infrared radiation, 445 watts is visible light, and 32 watts is ultraviolet radiation.",
+        "img": {
+            "src": "img/sun.jpg",
+            "alt": "Sun in infrared"
+        }
+    },
+    {
+        "id": 4,
+        "section": "Basics",
+        "title": "",
+        "text": "On the surface of Earth, at far lower temperatures than the surface of the Sun, some thermal radiation consists of infrared in the mid-infrared region, much longer than in sunlight. However, black-body, or thermal, radiation is continuous: it gives off radiation at all wavelengths.",
+        "img": {
+            "src": "img/earth.jpg",
+            "alt": "Earth in infrared"
+        }
+    },
+    {
+        "id": 5,
+        "section": "Types of infrared",
+        "title": "Near-infrared",
+        "text": "Defined by water absorption, and commonly used in fiber optic telecommunication because of low attenuation losses in the SiO2 glass (silica) medium. Image intensifiers are sensitive to this area of the spectrum; examples include night vision devices such as night vision goggles. Near-infrared spectroscopy is another common application.",
+        "img": {
+            "src": "",
+            "alt": ""
+        }
+    },
+    {
+        "id": 6,
+        "section": "Types of infrared",
+        "title": "Short-wavelength infrared",
+        "text": "Water absorption increases significantly at 1450 nm. The 1530 to 1560 nm range is the dominant spectral region for long-distance telecommunications.",
+        "img": {
+            "src": "",
+            "alt": ""
+        }
+    },
+    {
+        "id": 7,
+        "section": "Types of infrared",
+        "title": "Mid-wavelength infrared",
+        "text": "In guided missile technology the 3–5 μm portion of this band is the atmospheric window in which the homing heads of passive IR 'heat seeking' missiles are designed to work, homing on to the Infrared signature of the target aircraft, typically the jet engine exhaust plume. This region is also known as thermal infrared.",
+        "img": {
+            "src": "",
+            "alt": ""
+        }
+    },
+    {
+        "id": 8,
+        "section": "Types of infrared",
+        "title": "Long-wavelength infrared",
+        "text": "The thermal imaging region, in which sensors can obtain a completely passive image of objects only slightly higher in temperature than room temperature - for example, the human body - based on thermal emissions only and requiring no illumination such as the sun, moon, or infrared illuminator. This region is also called the thermal infrared.",
+        "img": {
+            "src": "",
+            "alt": ""
+        }
+    },
+    {
+        "id": 9,
+        "section": "Types of infrared",
+        "title": "Far infrared",
+        "text": "Far infrared (FIR) is a region in the infrared spectrum of electromagnetic radiation. Far infrared is often defined as any radiation with a wavelength of 15 micrometers (μm) to 1 mm (corresponding to a range of about 20 THz to 300 GHz), which places far infrared radiation within the CIE IR-B and IR-C bands. The long-wave side of the FIR spectrum overlaps with so named terahertz radiation. Different sources use different boundaries for the far infrared; for example, astronomers sometimes define far infrared as wavelengths between 25 um and 350 um.",
+        "img": {
+            "src": "img/fir.jpg",
+            "alt": "FIR image"
+        }
+    },
+    {
+        "id": 10,
+        "section": "Applications",
+        "title": "Night vision",
+        "text": "Infrared is used in night vision equipment when there is insufficient visible light to see. Night vision devices operate through a process involving the conversion of ambient light photons into electrons that are then amplified by a chemical and electrical process and then converted back into visible light.",
+        "img": {
+            "src": "img/nightvision.jpg",
+            "alt": "Night vision used in military"
+        }
+    },
+    {
+        "id": 11,
+        "section": "Applications",
+        "title": "Thermography",
+        "text": "Infrared radiation can be used to remotely determine the temperature of objects (if the emissivity is known). This is termed thermography, or in the case of very hot objects in the NIR or visible it is termed pyrometry. Thermography (thermal imaging) is mainly used in military and industrial applications but the technology is reaching the public market in the form of infrared cameras on cars due to greatly reduced production costs.",
+        "img": {
+            "src": "",
+            "alt": ""
+        }
+    },
+    {
+        "id": 12,
+        "section": "Applications",
+        "title": "Heating",
+        "text": "Infrared radiation can be used as a deliberate heating source. For example, it is used in infrared saunas to heat the occupants. It may also be used in other heating applications, such as to remove ice from the wings of aircraft (de-icing).",
+        "img": {
+            "src": "",
+            "alt": ""
+        }
+    },
+    {
+        "id": 13,
+        "section": "Applications",
+        "title": "Communications",
+        "text": "IR data transmission is also employed in short-range communication among computer peripherals and personal digital assistants. These devices usually conform to standards published by IrDA, the Infrared Data Association. Remote controls and IrDA devices use infrared light-emitting diodes (LEDs) to emit infrared radiation that is focused by a plastic lens into a narrow beam.",
+        "img": {
+            "src": "img/diode.jpg",
+            "alt": "IR diode"
+        }
+    },
+    {
+        "id": 14,
+        "section": "Applications",
+        "title": "Meteorology",
+        "text": "Weather satellites equipped with scanning radiometers produce thermal or infrared images, which can then enable a trained analyst to determine cloud heights and types, to calculate land and surface water temperatures, and to locate ocean surface features. The scanning is typically in the range 10.3–12.5 micrometers (IR4 and IR5 channels).",
+        "img": {
+            "src": "",
+            "alt": ""
+        }
+    },
+    {
+        "id": 15,
+        "section": "Astronomy",
+        "title": "Infrared astronomy",
+        "text": "Infrared astronomy began in the 1830s, a few decades after the discovery of infrared light by William Herschel in 1800. Early progress was limited, and it was not until the early 20th century that conclusive detections of astronomical objects other than the Sun and Moon were made in infrared light.",
+        "img": {
+            "src": "img/andromeda.jpg",
+            "alt": "Andromeda galaxy in infrared"
+        }
+    },
+    {
+        "id": 16,
+        "section": "Astronomy",
+        "title": "",
+        "text": "The discovery of infrared radiation is attributed to William Herschel, who performed an experiment in 1800 where he placed a thermometer in sunlight of different colors after it passed through a prism. He noticed that the temperature increase induced by sunlight was highest outside the visible spectrum, just beyond the red color. That the temperature increase was highest at infrared wavelengths was due to the spectral response of the prism rather than properties of the Sun",
+        "img": {
+            "src": "",
+            "alt": ""
+        }
+    },
+    {
+        "id": 17,
+        "section": "Astronomy",
+        "title": "Telescopes",
+        "text": "Infrared space telescopes entered service. In 1983, IRAS made an all-sky survey. In 1995, the European Space Agency created the Infrared Space Observatory. In 1998, this satellite ran out of liquid helium. However, before that, it discovered protostars and water in our universe (even on Saturn and Uranus).",
+        "img": {
+            "src": "",
+            "alt": ""
+        }
+    },
+    {
+        "id": 18,
+        "section": "Astronomy",
+        "title": "",
+        "text": "During May 2008, a group of international infrared astronomers proved that intergalactic dust greatly dims the light of distant galaxies. In actuality, galaxies are almost twice as bright as they look. The dust absorbs much of the visible light and re-emits it as infrared light.",
+        "img": {
+            "src": "",
+            "alt": ""
+        }
+    },
+    {
+        "id": 19,
+        "section": "Astronomy",
+        "title": "Modern infrared astronomy",
+        "text": "Infrared radiation with wavelengths just longer than visible light, known as near-infrared, behaves in a very similar way to visible light, and can be detected using similar solid state devices (because of this, many quasars, stars, and galaxies were discovered). For this reason, the near infrared region of the spectrum is commonly incorporated as part of the optical spectrum, along with the near ultraviolet.",
+        "img": {
+            "src": "",
+            "alt": ""
+        }
+    },
+    {
+        "id": 20,
+        "section": "Astronomy",
+        "title": "",
+        "text": "One of the most common infrared detector arrays used at research telescopes is HgCdTe arrays. These operate well between 0.6 and 5 micrometre wavelengths. For longer wavelength observations or higher sensitivity other detectors may be used, including other narrow gap semiconductor detectors, low temperature bolometer arrays or photon-counting Superconducting Tunnel Junction arrays.",
+        "img": {
+            "src": "img/hgcdte.jpg",
+            "alt": "HgCdTe detector"
+        }
+    },
+    {
+        "id": 21,
+        "section": "Astronomy",
+        "title": "",
+        "text": "Many space telescopes detect electromagnetic radiation in a wavelength range that overlaps at least to some degree with the infrared wavelength range. Therefore it is difficult to define which space telescopes are infrared telescopes. Here the definition of infrared space telescope is taken to be a space telescope whose main mission is detecting infrared light.",
+        "img": {
+            "src": "",
+            "alt": ""
+        }
+    },
+    {
+        "id": 22,
+        "section": "Photography",
+        "title": "",
+        "text": "In infrared photography, the film or image sensor used is sensitive to infrared light. The part of the spectrum used is referred to as near-infrared to distinguish it from far-infrared, which is the domain of thermal imaging. Wavelengths used for photography range from about 700 nm to about 900 nm.",
+        "img": {
+            "src": "img/irphoto.jpg",
+            "alt": "Photo taken in infrared"
+        }
+    },
+    {
+        "id": 23,
+        "section": "Photography",
+        "title": "",
+        "text": "Until the early 20th century, infrared photography was not possible because silver halide emulsions are not sensitive to longer wavelengths than that of blue light (and to a lesser extent, green light) without the addition of a dye to act as a color sensitizer. The first infrared photographs (as distinct from spectrographs) to be published appeared in the February 1910 edition of The Century Magazine and in the October 1910 edition of the Royal Photographic Society Journal to illustrate papers by Robert W. Wood, who discovered the unusual effects that now bear his name.",
+        "img": {
+            "src": "",
+            "alt": ""
+        }
+    },
+    {
+        "id": 24,
+        "section": "Photography",
+        "title": "",
+        "text": "Most manual focus 35 mm SLR and medium format SLR lenses have a red dot, line or diamond, often with a red R called the infrared index mark, that can be used to achieve proper infrared focus; many autofocus lenses no longer have this mark.",
+        "img": {
+            "src": "img/rmark.jpg",
+            "alt": "R mark on lens"
+        }
+    },
+    {
+        "id": 25,
+        "section": "Photography",
+        "title": "",
+        "text": "With some patience and ingenuity, most film cameras can be used. However, some cameras of the 1990s that used 35mm film have infrared sprocket-hole sensors that can fog infrared film (their manuals may warn against the use of infrared film for this reason). Other film cameras are not completely opaque to infrared light.",
+        "img": {
+            "src": "img/irfilm.jpg",
+            "alt": "IR 120 type film"
+        }
+    },
+    {
+        "id": 26,
+        "section": "Photography",
+        "title": "",
+        "text": "Digital camera sensors are inherently sensitive to infrared light, which would interfere with the normal photography by confusing the autofocus calculations or softening the image (because infrared light is focused differently from visible light), or oversaturating the red channel. Also, some clothing is transparent in the infrared, leading to unintended (at least to the manufacturer) uses of video cameras.",
+        "img": {
+            "src": "",
+            "alt": ""
+        }
+    },
+    {
+        "id": 27,
+        "section": "Photography",
+        "title": "",
+        "text": "While it is common to use a filter that blocks almost all visible light, the wavelength sensitivity of a digital camera without internal infrared blocking is such that a variety of artistic results can be obtained with more conventional filtration. For example, a very dark neutral density filter can be used (such as the Hoya ND400) which passes a very small amount of visible light compared to the near-infrared it allows through.",
+        "img": {
+            "src": "img/sensor.jpg",
+            "alt": "CCD sensor with filter visible"
+        }
+    }
+]
