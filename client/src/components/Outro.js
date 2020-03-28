@@ -28,7 +28,7 @@ function Outro() {
                     key={episode.id}
                     className="outro__episode-wrap">
                     <div className="outro__episode">
-                        <img src={`http://localhost:5000/static/thumbs/${episode.thumb}`} alt={episode.desc} />
+                        <img src={`/static/thumbs/${episode.thumb}`} alt={episode.desc} />
                     </div>
                     {episode.name}
                 </div>)}

@@ -15,7 +15,7 @@ function InfoBox(props) {
                     {text}
                 </div>
             </div>
-            {img.src && <div className="box__img"><img src={`http://localhost:5000/static/${img.src}`} alt={img.alt} /></div>}
+            {img.src && <div className="box__img"><img src={`/static/${img.src}`} alt={img.alt} /></div>}
         </div>
 
     );
